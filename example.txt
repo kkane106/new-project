@@ -1,5 +1,6 @@
 This is my file, I am adding text.
 
 Local changes --> Here is another change!!!!
+This line changed somewhere else!!! --> (Here is another change!!!!)
 
 This change came from Github. ;-)
